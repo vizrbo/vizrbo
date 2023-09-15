@@ -4,4 +4,5 @@
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64a4404aec22530247ecacad?variant=dark&roadmaps=computer-science" alt="roadmap.sh"/></a>
 
-![Debian Logo](Debian.webp)[Debian Website](https://www.debian.org/)
+![Debian Logo](Debian.webp)
+[Debian Website](https://www.debian.org/)
