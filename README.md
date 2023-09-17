@@ -1,3 +1,5 @@
+<!-- Welcome to vizrbo! -->
+
 # Hey there! 👋
  
 ## You have reached the profile of [vizrbo](https://github.com/vizrbo), an enthusiast when it comes to tinkering with computers, linux, & FOSS
