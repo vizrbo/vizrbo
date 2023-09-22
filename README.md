@@ -1,6 +1,6 @@
-<p style="font-size: 64px;">Hey there! :wave:</p>
+<p><span style="font-size: 64px;">Hey there! :wave:</span></p>
  
-<p style="font-size: 64px;">You have reached the profile of <a href="https://github.com/vizrbo">vizrbo</a>, an enthusiast when it comes to tinkering with computers, linux, & FOSS</p>
+<p><span style="font-size: 64px;">You have reached the profile of <a href="https://github.com/vizrbo">vizrbo</a>, an enthusiast when it comes to tinkering with computers, linux, & FOSS</span></p>
 
 <a href="https://roadmap.sh/computer-science"><img src="https://api.roadmap.sh/v1-badge/wide/64a4404aec22530247ecacad?variant=dark&roadmaps=computer-science" alt="roadmap.sh"></a>
 
