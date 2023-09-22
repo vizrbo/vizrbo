@@ -1,4 +1,4 @@
-# [Hey there! 👋]()
+# [Hey there! :wave:]()
  
 ## [You have reached the profile of vizrbo, an enthusiast when it comes to tinkering with computers, linux, & FOSS]()
 
