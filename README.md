@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-    <p><a href="https://linuxmint.com/faq.php" ><img height="100px" src="Mint.png" alt="Linux Mint Logo"></a></p>
+    <p><a href="https://linuxmint.com/faq.php" ><img height="100px" src="https://gitlab.com/vizrbo/vizrbo/-/raw/main/Mint.png" alt="Linux Mint Logo"></a></p>
 </div>
