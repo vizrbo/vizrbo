@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-    <p><a href="https://linuxmint.com/faq.php" ><img height="100px" src="https://gitlab.com/vizrbo/vizrbo/-/raw/main/Mint.png" alt="Linux Mint Logo"></a></p>
+    <p><a href="https://fedoraproject.org/workstation/"><img height="50px" src="https://gitlab.com/vizrbo/vizrbo/-/raw/main/fedora.png" alt="Fedora Logo"></a></p>
 </div>
