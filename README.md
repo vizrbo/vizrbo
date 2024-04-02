@@ -3,7 +3,7 @@
 </div>
  
 <div align="center">
-    <p>You have reached the profile of <a href="https://gitlab.com/vizrbo">vizrbo</a>, an avid enthusiast when it comes to tinkering with computers, linux, & FOSS</p>
+    <p>You have reached the profile of <a href="https://vizrbo.gitlab.io">vizrbo</a>, an avid enthusiast when it comes to tinkering with computers, linux, & FOSS</p>
 </div>
 
 <div align="center">
