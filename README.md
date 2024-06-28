@@ -4,6 +4,6 @@
     <!-- <p><a href="https://roadmap.sh"><img height="120px" src="https://api.roadmap.sh/v1-badge/wide/64a4404aec22530247ecacad?variant=light" alt="roadmap.sh"></a></p> -->
     <figure>
         <figcaption><strong>Powered BY</strong></figcaption>
-        <p><a href="https://fedoraproject.org/workstation/"><img height="60px" src="https://gitlab.com/vizrbo/vizrbo/-/raw/main/Fedora.png" alt="Fedora Logo"></a></p>
+        <p><a href="https://fedoraproject.org/workstation/"><img height="50px" src="https://gitlab.com/vizrbo/vizrbo/-/raw/main/Fedora.png" alt="Fedora Logo"></a></p>
     </figure>
 </div>
